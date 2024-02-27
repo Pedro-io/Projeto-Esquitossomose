@@ -4,7 +4,7 @@ Este diretório mantém os artefatos relatório à modelagem de dados do projeto
 
 Os principais documentos a serem produzidos são:
 
-* `data_raw.csv`
+* (https://docs.google.com/document/d/1L6psk3oscVpz23FRIP1eUYMCzix047Q-NaJmn-vqd3E/edit)
 	* base principal original. pode ser em qualquer formato tabular
 
 * `other_data_raw.csv`
